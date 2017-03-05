@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(131): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(153): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(216): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(218): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(230): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(231): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(321): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(323): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(454): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(456): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'unsigned long', possible loss of data
+c:\users\liqui\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(619): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\liqui\Documents\Visual Studio 2017\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\liqui\Documents\Visual Studio 2017\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Partial PDB)
