@@ -1,4 +1,0 @@
-__kernel bvoid ProcessStringArr(__local int data, __local data2, __global int out){
-	out = data + data2;
-	
-}
